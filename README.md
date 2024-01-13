@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Morse code converter implemented in Python. It provides functionalities to convert speech to Morse code, text to Morse code, Morse code to text, and Morse code to speech. The program utilizes the SpeechRecognition library for speech-to-text conversion, the pyttsx3 library for text-to-speech conversion, and the playsound library for playing Morse code audio.
+This project is a Morse code converter implemented in Python. It provides various functionalities to convert speech, text to Morse code and Vice versa. The program utilizes the **SpeechRecognition** library for speech-to-text conversion, the **pyttsx3** library for text-to-speech conversion, and the **playsound** library for playing Morse code audio.
 
 ## Features
 
