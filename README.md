@@ -19,14 +19,27 @@ pip install SpeechRecognition pyttsx3 playsound
 ```
 
 ## Usage
+1. **Clone the Repository:**
+   ```bash
+    git clone https://github.com/Antisource/MorseCodeConvertor.git
+   ```
 
-Run the program, and you will be prompted to choose an option:
+2. **Run the Program:**
+   ```bash
+    python main.py
+   ```
+   OR
+   ```bash
+   main.exe
+   ```
 
-1 for Speech to Morse Code
-2 for Text to Morse Code
-3 for Morse to Speech
-4 for Morse to Text
-Follow the instructions for the selected option.
+You will be prompted to choose an option:
+
+- **1** for Speech to Morse Code
+- **2** for Text to Morse Code
+- **3** for Morse to Speech
+- **4** for Morse to Text
+- Follow the instructions for the selected option.
 
 ## Morse Code Dictionary
 
